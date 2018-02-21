@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519228525 source:c:\users\booll18\desktop\random array\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+
