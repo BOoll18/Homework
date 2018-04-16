@@ -1,0 +1,8 @@
+C:\Users\BOoll18\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\BOoll18\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BOoll18\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\BOoll18\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\BOoll18\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\BOoll18\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\BOoll18\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\BOoll18\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
